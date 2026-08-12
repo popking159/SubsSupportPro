@@ -10,7 +10,7 @@ REPO="SubsSupportPro"
 
 # DreamOS uses 'apt'. Core python modules (json, codecs, xmlrpc, etc.) are 
 # already built into the base system. We only need the external libraries.
-DEPENDS="python-requests python-beautifulsoup python-six python-twisted-web unrar"
+DEPENDS="python-requests python-six python-twisted-web unrar"
 
 # Target the DreamOS specific payload
 PLUGIN_URL="https://github.com/${USERNAME}/${REPO}/raw/refs/heads/main/main_dreamos.tar.gz"
