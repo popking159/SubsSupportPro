@@ -1,5 +1,6 @@
 #!/bin/sh
 
+# wget -qO - https://raw.githubusercontent.com/popking159/SubsSupportPro/refs/heads/main/myinstaller_dreamos.sh | /bin/sh
 # =========================================================================
 # CONFIGURATION (DreamOS Version)
 # =========================================================================
